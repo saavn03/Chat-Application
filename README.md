@@ -4,12 +4,10 @@
 
 current version of node install
 
-Getting started
 
-Important command
-
-npm init
-
-npm start
-
-npm run build
+<h2>Important command</h2>
+<ul>
+  <li>npm init</li>
+  <li>npm start</li>
+  <li>npm run build</li>
+</ul>
