@@ -2,7 +2,7 @@
 
 <h2>Required</h2>
 
-current version of node install
+Current version of NODE install.
 
 
 <h2>Important command</h2>
